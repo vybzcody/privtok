@@ -1,0 +1,39 @@
+## IDE Files
+.idea/
+.vscode/
+
+## Build Artifacts
+node_modules/
+dist/
+build/
+tmp/
+.next/
+.vercel/
+*.zip
+
+## Blockchain / Leo Artifacts
+leo/build/
+leo/outputs/
+leo/leo.lock
+
+## OS Files
+.DS_Store
+Thumbs.db
+
+## Environment & Secrets
+.env
+.env.local
+.env.*.local
+!.env.example
+
+## Locks & Logs
+package-lock.json
+.yarn/
+yarn-error.log
+
+## Project Specific
+reference_packages/
+storage*/
+
+
+*.sh
