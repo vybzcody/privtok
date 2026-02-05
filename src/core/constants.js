@@ -1,0 +1,1 @@
+export const PROGRAM_ID = "privtok_decentrix_platformv9.aleo";
